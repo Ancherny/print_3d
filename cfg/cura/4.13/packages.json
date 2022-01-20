@@ -1,0 +1,30 @@
+{
+    "dismissed": [],
+    "installed": {
+        "CustomSupports": {
+            "filename": "C:\\Users\\ancher\\AppData\\Local\\cura\\4.13\\cache\\cura_packages\\CustomSupports.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "lokster",
+                    "display_name": "Krasimir Stefanov",
+                    "email": "lokiisyourmaster@gmail.com",
+                    "website": "http://lokspace.eu"
+                },
+                "description": "Cura plugin, which enables you to add custom supports!",
+                "display_name": "Custom Supports",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CustomSupports",
+                "package_type": "plugin",
+                "package_version": "0.1.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.2.0",
+                "website": "http://lokspace.eu/cura-custom-supports-plugin/"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
