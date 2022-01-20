@@ -1,0 +1,10 @@
+/cura/**/*.log
+
+.mayaSwatches
+
+*.m3d.bak
+*.a3d.bak
+
+/_kompas_ini/**/*
+!_kompas_ini/kHome.ini
+/_kompas_cfg/kHome.ini
