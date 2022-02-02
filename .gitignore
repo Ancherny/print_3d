@@ -1,4 +1,3 @@
-/cfg/cura/**/*.log
 /cfg/kompas/ini/**/*
 !/cfg/kompas/ini/kHome.ini
 /cfg/kompas/cfg/kHome.ini
@@ -6,6 +5,7 @@
 .mayaSwatches
 
 *.bak
+*.log
 
 src_stl.*
 
