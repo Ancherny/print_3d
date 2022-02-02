@@ -8,6 +8,7 @@ inventor
 
 *.bak
 *.log
+~$*.*~
 
 src_stl.*
 
