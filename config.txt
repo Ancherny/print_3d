@@ -512,9 +512,9 @@ simpledriver.drv5.microsteps          			16
 
 ########################Preheat Config########################
 
-preheat.names                           PLA|ABS|PETG|Wax
-preheat.head_temps                      200|230|225|80
-preheat.bed_temps                       70|90|70|0
+preheat.names                           PETG_GF|PLA|ABS|Wax
+preheat.head_temps                      220|200|230|80
+preheat.bed_temps                       90|70|90|0
 
 
 keepalive_timeout 								0  						#   busy protocol M113
