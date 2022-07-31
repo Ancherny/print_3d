@@ -14,3 +14,5 @@ src_stl.*
 
 /cfg/kompas/cfg/20/UI_PanelVisibility.config
 /Default.lnk
+
+aos5/*.stl
