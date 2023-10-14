@@ -4,6 +4,9 @@
 
 # LFS
 
+# Inventor
+*.ipt filter=lfs diff=lfs merge=lfs -text
+
 # Kompas
 *.a3d filter=lfs diff=lfs merge=lfs -text
 *.a3t filter=lfs diff=lfs merge=lfs -text

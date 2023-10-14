@@ -1,10 +1,22 @@
-/cura/**/*.log
+inventor
+
+/cfg/kompas/ini/**/*
+!/cfg/kompas/ini/kHome.ini
+/cfg/kompas/cfg/kHome.ini
 
 .mayaSwatches
 
-*.m3d.bak
-*.a3d.bak
+*.bak
+*.log
+*.log.*
+~$*.*~
 
-/_kompas_ini/**/*
-!_kompas_ini/kHome.ini
-/_kompas_cfg/kHome.ini
+src_stl.*
+
+/cfg/kompas/cfg/20/UI_PanelVisibility.config
+/Default.lnk
+
+aos5/stl
+aos5/**/*.stl
+
+mister/**/*.stl
